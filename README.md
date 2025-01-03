@@ -14,4 +14,4 @@ This repository demonstrates how to convert a Keras model into TensorFlow Lite f
 Simply run the script to convert your Keras model (`.h5`) into a TensorFlow Lite model (`.tflite`).
 
 ```bash
-python convert_model.py
+python keras_to_tfLite.py
